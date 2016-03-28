@@ -1,20 +1,23 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I’m a thirtysomething male resident of Nashville, TN, where I live with my wife, son, and two cats. I work in web operations for [Eventbrite](https://www.eventbrite.com).
 
-Thanks to the following:
+To contact me, write to brian at polibyte.com.
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+You can download a nicely-formatted PDF of my resume [here](/files/resume.pdf).
+
+I'm active to varying degrees at the following websites:
+
+*  [Del.icio.us](http://del.icio.us/sciurus)
+*  [Github](http://github.com/sciurus)
+*  [Hacker News](http://news.ycombinator.com/user?id=sciurus)
+*  [NashDev Slack](http://www.nashdev.com/)
+*  [Reddit](https://www.reddit.com/user/puerexmachina/)
+*  [Server Fault](http://serverfault.com/users/71515/sciurus)
+*  [Twitter](https://twitter.com/sciurus)
