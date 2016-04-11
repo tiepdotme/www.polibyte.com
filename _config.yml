@@ -62,7 +62,7 @@ share_digg: false
 share_tumblr: false
 share_reddit: false
 share_stumbleupon: false
-share_hackernews: true
+share_hackernews: false
 
 text:
   pagination:
