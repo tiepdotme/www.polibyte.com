@@ -4,7 +4,7 @@ title:      Installing euca2ools on os x
 ---
 
 
-Download the tag of the latest stable euca2ools release from [github](https///github.com/eucalyptus/euca2ools/tags). Install [virtualenv](http://www.virtualenv.org/en/latest/index.html) with 'sudo easy_install virtualenv' and [homebrew](http://mxcl.github.com/homebrew/) following their instructions if you haven't already.
+Download the tag of the latest stable euca2ools release from [github](https://github.com/eucalyptus/euca2ools/tags). Install [virtualenv](http://www.virtualenv.org/en/latest/index.html) with 'sudo easy_install virtualenv' and [homebrew](http://mxcl.github.com/homebrew/) following their instructions if you haven't already.
 
 Using virtualenv and homebrew isn't mandatory. Homebrew makes it much easier to install many tools and libraries like swig, and virtualenv lets you keep isolated python environments.
 

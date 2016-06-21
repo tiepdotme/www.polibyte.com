@@ -4,7 +4,7 @@ title:      Massaging ovf for virtualbox
 ---
 
 
-[VirtualBox](https///www.virtualbox.org/) and VMware's [ovftool](https///www.vmware.com/support/developer/ovf/) have a different idea of how a storage controller should be described. This prevents exporting a VM from, e.g. VMware Fusion, and then importing it into VirtualBox. However, this can be worked around.
+[VirtualBox](https://www.virtualbox.org/) and VMware's [ovftool](https://www.vmware.com/support/developer/ovf/) have a different idea of how a storage controller should be described. This prevents exporting a VM from, e.g. VMware Fusion, and then importing it into VirtualBox. However, this can be worked around.
 
 Ovftool produces output like
 

@@ -28,7 +28,7 @@ This is a [script](http://en.wikipedia.org/wiki/Scripting_language) for any user
 
 *  Lines 2-3: Set the internal field separator to a newline only.
 
-*  Lines 4-5 and 7: Loop through every line in [$NAUTILUS_SCRIPT_SELECTED_FILE_PATHS](https///help.ubuntu.com/community/NautilusScriptsHowto#head-c5b169381fecc7fca6463ddb4dbe712fdd4f9080), call the current line $I, and run Line 6.
+*  Lines 4-5 and 7: Loop through every line in [$NAUTILUS_SCRIPT_SELECTED_FILE_PATHS](https://help.ubuntu.com/community/NautilusScriptsHowto#head-c5b169381fecc7fca6463ddb4dbe712fdd4f9080), call the current line $I, and run Line 6.
 
 *  Line 6, gksu: Get authorization via password then run the next command as root. On Ubuntu the gconf key /apps/gksu/sudo-mode makes gksu act like gksudo.
 

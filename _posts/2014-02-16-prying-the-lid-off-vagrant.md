@@ -4,7 +4,7 @@ title:      Prying the lid off vagrant
 ---
 
 
-When developing software, it's convenient to have a REPL. For Ruby, the best choice I know of is [Pry](http://pryrepl.org/). In addition to facilitating exploratory programming, it can act as a console for exploring a running program's state. It also has a plugin for basic [integration](https///github.com/deivid-rodriguez/pry-byebug) with a [debugger](https///github.com/deivid-rodriguez/byebug). It sounds like it would come in handy for vagrant plugin development, woudn't it?
+When developing software, it's convenient to have a REPL. For Ruby, the best choice I know of is [Pry](http://pryrepl.org/). In addition to facilitating exploratory programming, it can act as a console for exploring a running program's state. It also has a plugin for basic [integration](https://github.com/deivid-rodriguez/pry-byebug) with a [debugger](https://github.com/deivid-rodriguez/byebug). It sounds like it would come in handy for vagrant plugin development, woudn't it?
 
 Vagrant bundles its own ruby, so you don't have access to gems you've installed through normal means. However, it's easy to add gems to your vagrant environment. ''vagrant plugin install'' is primarily a wrapper around Bundler, and it's happy to try to install any gem from a local file or rubygems. Thus, all you need in order to install pry is
 

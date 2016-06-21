@@ -4,7 +4,7 @@ title:      Wwwaiter released
 ---
 
 
-I've released a small perl script named [wwaiter](https///github.com/sciurus/wwwaiter). wwwaiter is a program for visualizing delays in receiving portions of a document from a web server. It won't be exact due to buffering done by your webserver and operating system, but it should help diagnose slow parts of web applications.
+I've released a small perl script named [wwaiter](https://github.com/sciurus/wwwaiter). wwwaiter is a program for visualizing delays in receiving portions of a document from a web server. It won't be exact due to buffering done by your webserver and operating system, but it should help diagnose slow parts of web applications.
 
 This is the result of being frustrated that Firebug didn't show me how much of a single document had loaded and the realization that there had to be a better way than running curl and watching for the slow parts. I created a project on google code in case anyone else finds it useful and would like to inform me of any bugs or contribute more functionality.
 

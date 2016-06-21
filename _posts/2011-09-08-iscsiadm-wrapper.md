@@ -19,7 +19,7 @@ the syntax is a bit verbose and can be hard to remember if you don't use it freq
 	iscsi delete iqn.2001-05.com.equallogic:0-aaaaaa-bbbbbbbbb-cccccccccccccccc-example
 
 
-You can find the code [here](https///github.com/sciurus/splatbang/blob/master/iscsi) on github.
+You can find the code [here](https://github.com/sciurus/splatbang/blob/master/iscsi) on github.
 
 
 
