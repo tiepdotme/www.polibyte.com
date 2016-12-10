@@ -32,3 +32,5 @@ house in East Nashville.
 If you want to know what's happening around town, pick up a copy of the
 [Nashville Scene](http://www.nashvillescene.com/). If you're specifically interested in tech events, check out
 [cal.nashvl.org](http://cal.nashvl.org/) and consider joining [NashDev](http://nashdev.com/) on Slack.
+
+Here is [another](https://github.com/websages/nashville) good list of recommendations from my friends at The Bikeshed.
