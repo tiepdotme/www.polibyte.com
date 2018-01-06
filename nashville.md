@@ -5,13 +5,15 @@ permalink: /nashville/
 tags: about
 ---
 
-I frequently have the opportunity to show coworkers from San Francisco or Mendoza around Nashville.
-Realizing that we'd have out-of-town speakers for
-[DevOpsDays](https://www.devopsdays.org/events/2016-nashville/welcome/), I thought I would share some of my
-recommendations for visitors. Fair warning that these are biased towards places near the Eventbrite office or near my
+When I worked for Eventbrite, I frequently had the opportunity to show
+coworkers from San Francisco or Mendoza around Nashville.  Realizing that we'd
+have out-of-town speakers for
+[DevOpsDays](https://www.devopsdays.org/events/2016-nashville/welcome/), I
+thought I would share some of my recommendations for visitors. Fair warning
+that these are biased towards places near the Eventbrite office or near my
 house in East Nashville.
 
-* BBQ at Peg Leg Porker (get the dry rub ribs)
+* BBQ at Peg Leg Porker (get the dry rub ribs) or Martin's (try the brisket)
 * Meat & 3 lunch at Arnolds
 * Family-style southern dinner at Monell's
 * Hot Chicken anywhere (but I'm partial to Pepperfire)
@@ -25,7 +27,7 @@ house in East Nashville.
 * Bluegrass at Station Inn
 * Music and beer at The 5 Spot
 * Karaoke at Santa's Pub
-* Visiting one of our [many breweries](http://www.nashvillescene.com/food-drink/cover-story/article/20830305/beer-here-a-map-of-nashville-breweries)
+* Visiting one of our [many breweries](http://www.nashvillescene.com/food-drink/cover-story/article/20830305/beer-here-a-map-of-nashville-breweries) (Smith & Lentz and Bearded Iris top my list)
 * Shopping at the Idea Hatchery or Fatherland Shoppes
 * Watching the tourists on Broadway
 
