@@ -6,7 +6,7 @@ tags: about
 ---
 
 
-I’m a thirtysomething male resident of Nashville, TN, where I live with my wife, son, and two cats. I work in web operations for [Eventbrite](https://www.eventbrite.com).
+I’m a thirtysomething male resident of Nashville, TN, where I live with my wife, son, and two cats. I work in web operations for [Mozilla](https://www.mozilla.org/).
 
 To contact me, write to brian at polibyte.com.
 
