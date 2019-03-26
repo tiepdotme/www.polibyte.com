@@ -6,18 +6,18 @@ tags: about
 ---
 
 
-I’m a thirtysomething male resident of Atlanta, GA where I live with my wife, son, and two cats. I work in web operations for [Mozilla](https://www.mozilla.org/).
+I’m a thirtysomething male resident of Atlanta, GA where I live with my wife, two sons, and two cats. I work in web operations for [Mozilla](https://www.mozilla.org/).
 
 To contact me, write to brian at polibyte.com.
 
 You can download a nicely-formatted PDF of my resume [here](/files/resume.pdf).
 
-I'm active to varying degrees at the following websites:
+I'm active to varying degrees at the following virtual places:
 
-*  [Del.icio.us](http://del.icio.us/sciurus)
+*  Atlanta area ham radio repeaters as KN4TCF
+*  NashDev, Tech404, and Hangops Slack teams
 *  [Github](http://github.com/sciurus)
 *  [Hacker News](http://news.ycombinator.com/user?id=sciurus)
-*  [NashDev Slack](http://www.nashdev.com/)
 *  [Reddit](https://www.reddit.com/user/puerexmachina/)
 *  [Server Fault](http://serverfault.com/users/71515/sciurus)
 *  [Twitter](https://twitter.com/sciurus)
