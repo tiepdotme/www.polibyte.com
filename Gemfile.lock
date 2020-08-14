@@ -61,10 +61,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  jekyll (< 4.0)
   jekyll-paginate
   jekyll-sitemap
   rake
 
 BUNDLED WITH
-   1.16.4
+   1.17.2
